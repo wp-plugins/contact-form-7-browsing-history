@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Browsing History
  * Description: Add visitor page histories in Contact Form 7 mail body.
- * Author: Biztech Consultancy pvt Ltd
+ * Author: biztechc
  * Author URI: http://www.biztechconsultancy.com
  * Version: 1.0.0 
  */

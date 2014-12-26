@@ -1,5 +1,6 @@
 === Browsing History ===
 Contributors: biztechc
+Tags: Contact form 7 browsing history,visitor page history,page history 
 Requires at least: 3.6.1
 Tested up to: 4.0
 Stable tag: 1.0.0
