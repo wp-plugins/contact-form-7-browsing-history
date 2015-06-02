@@ -6,7 +6,7 @@ Tested up to: 4.0
 Stable tag: 1.0.0
 License: GPLv2 or later
 
-Using this plugin admin can view the browsing history of any user provided contact form 7 is configured in the website and the user has filled in the form.
+Using this plugin admin can view the browsing history of user provided contact form 7 is configured in the site and the user has filled in the form.
 == Description ==
 1. This pluign is depended on Contact form 7.
 2. Users filled in contact form 7 can be tracked.
